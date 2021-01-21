@@ -1,4 +1,4 @@
-# dcc-ex-throttle
-Handheld throttle for DCC++EX
+# JMRI psycial throttel
+Handheld throttle for JMRI
 
 Inspired from Dave Bodnar http://www.trainelectronics.com/DCC_Arduino/DCC++/Throttle/index.htm
